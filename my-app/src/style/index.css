@@ -1,0 +1,46 @@
+.img-responsive{
+        width:75%;
+        height:300px;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.img-responsive-stars{
+  z-index:9;
+        width:50px;
+        height:50px;
+}
+
+
+.col-sm{
+  font-family: cursive;
+  text-align: center;
+}
+
+.col-auto{
+  font-family:  cursive;
+  position:absolute;
+  text-align: left;
+  text-align: center;
+}
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+.header{
+  background-image: url('image.jpg');
+   max-width: 100%;
+    height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2{
+  text-align: center;
+}
+

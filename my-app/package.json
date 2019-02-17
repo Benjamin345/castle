@@ -1,0 +1,29 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.2.1",
+    "ajv-keywords": "^3.1.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.0.0",
+    "cheerio": "^1.0.0-rc.2",
+    "jquery": "^3.3.1",
+    "node-fetch": "^2.3.0",
+    "package.json": "^2.0.1",
+    "popper.js": "^1.13.0",
+    "puppeteer": "^1.12.2",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1",
+    "reactstrap": "^6.5.0",
+    "remove-accents": "^0.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
