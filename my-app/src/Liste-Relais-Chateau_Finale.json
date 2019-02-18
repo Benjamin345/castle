@@ -1,0 +1,44 @@
+[
+    {
+        "hotel_name": "Anne de Bretagne",
+        "hotel_price": "81,89",
+        "resto_name": "Anne de Bretagne",
+        "city": "La Plaine sur Mer",
+        "url": "https://www.relaischateaux.com/fr/france/annedebretagne-loire-atlantique-la-plaine-sur-mer"
+    },
+    {
+        "hotel_name": "Brittany & Spa",
+        "hotel_price": "188,63",
+        "resto_name": "Le Brittany",
+        "city": "Roscoff",
+        "url": "https://www.relaischateaux.com/fr/france/brittany-finistere-roscoff"
+    },
+    {
+        "hotel_name": "Cap d’Antibes Beach Hotel",
+        "hotel_price": "332,08",
+        "resto_name": "Le Cap",
+        "city": "Cap d’Antibes",
+        "url": "https://www.relaischateaux.com/fr/france/antibes-alpes-maritimes-cap-d-antibes"
+    },
+    {
+        "hotel_name": "Château de Fonscolombe",
+        "hotel_price": "185,24",
+        "resto_name": "L'Orangerie",
+        "city": "Le Puy-Sainte-Réparade",
+        "url": "https://www.relaischateaux.com/fr/france/fonscolombe-bouches-du-rhone"
+    },
+    {
+        "hotel_name": "Château de la Treyne",
+        "hotel_price": "282,38",
+        "resto_name": "Château de la Treyne",
+        "city": "Lacave",
+        "url": "https://www.relaischateaux.com/fr/france/treyne-lot-lacave"
+    },
+    {
+        "hotel_name": "La Signoria & Spa",
+        "hotel_price": "397,59",
+        "resto_name": "La Signoria",
+        "city": "Calvi",
+        "url": "https://www.relaischateaux.com/fr/france/signoria-corse-calvi"
+    }
+]

@@ -1,270 +1,345 @@
 [
     {
-        "title": "Bistrot des Moines",
+        "hotel_name": "Abbaye de la Bussière",
+        "hotel_price": "254,14",
+        "resto_name": "Bistrot des Moines",
+        "city": "La Bussière-sur-Ouche",
         "url": "https://www.relaischateaux.com/fr/france/bussiere-cote-d-or-la-bussiere-sur-ouche"
     },
     {
-        "title": "",
+        "hotel_name": "Anne de Bretagne",
+        "hotel_price": "81,89",
+        "resto_name": "Anne de Bretagne",
+        "city": "La Plaine sur Mer",
+        "url": "https://www.relaischateaux.com/fr/france/annedebretagne-loire-atlantique-la-plaine-sur-mer"
+    },
+    {
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "Restaurant Gastronomique le Cinq",
+        "hotel_name": "Au Cœur du Village Hôtel & Spa",
+        "hotel_price": "491,35",
+        "resto_name": "Restaurant Gastronomique le Cinq",
+        "city": "La Clusaz",
         "url": "https://www.relaischateaux.com/fr/france/coeurduvillage-rhone-alpes-la-clusaz"
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "L'Auberge des Glazicks",
-        "url": "https://www.relaischateaux.com/fr/france/auberge-des-glazicks-plomodiern"
+        "hotel_name": "Brittany & Spa",
+        "hotel_price": "188,63",
+        "resto_name": "Le Brittany",
+        "city": "Roscoff",
+        "url": "https://www.relaischateaux.com/fr/france/brittany-finistere-roscoff"
     },
     {
-        "title": "Auberge des Templiers",
-        "url": "https://www.relaischateaux.com/fr/france/templiers-loiret-boismorand"
+        "hotel_name": "Cap d’Antibes Beach Hotel",
+        "hotel_price": "332,08",
+        "resto_name": "Le Cap",
+        "city": "Cap d’Antibes",
+        "url": "https://www.relaischateaux.com/fr/france/antibes-alpes-maritimes-cap-d-antibes"
     },
     {
-        "title": "Le Jardin d'Hiver",
-        "url": "https://www.relaischateaux.com/fr/france/jeudepaume-oise-chantilly"
+        "hotel_name": "Château Cordeillan-Bages",
+        "hotel_price": "192,02",
+        "resto_name": "Café Lavinal",
+        "city": "Pauillac",
+        "url": "https://www.relaischateaux.com/fr/france/cordeillan-gironde-pauillac"
     },
     {
-        "title": "Autres restaurants",
-        "url": "https://www.relaischateaux.com/fr/france/baumaniere-hotel-spa-les-baux-de-provence"
-    },
-    {
-        "title": "Le Café Clara",
-        "url": "https://www.relaischateaux.com/fr/france/castelclara-morbihan-bangor"
-    },
-    {
-        "title": "Cazaudehore",
-        "url": "https://www.relaischateaux.com/fr/france/cazaudehore-yvelines-saint-germain-en-laye"
-    },
-    {
-        "title": "Restaurant LALIQUE",
-        "url": "https://www.relaischateaux.com/fr/france/chateau-lafaurie-peyraguey-lalique-bommes"
-    },
-    {
-        "title": "1217",
-        "url": "https://www.relaischateaux.com/fr/france/bagnols-rhone-alpes"
-    },
-    {
-        "title": "Le Bistrot",
-        "url": "https://www.relaischateaux.com/fr/france/berne-var-lorgues"
-    },
-    {
-        "title": "Château de Codignat",
-        "url": "https://www.relaischateaux.com/fr/france/codignat-puy-de-dome-bort-l-etang"
-    },
-    {
-        "title": "Château de Courcelles",
-        "url": "https://www.relaischateaux.com/fr/france/courcelles-aisne-courcelles-sur-vesle"
-    },
-    {
-        "title": "Les Quatre Saisons",
+        "hotel_name": "Château de Curzay",
+        "hotel_price": "",
+        "resto_name": "Les Quatre Saisons",
+        "city": "Curzay-sur-Vonne",
         "url": "https://www.relaischateaux.com/fr/france/curzay-vienne-curzay-sur-vonne"
     },
     {
-        "title": "Le Verdurier",
+        "hotel_name": "Château de Drudas",
+        "hotel_price": "",
+        "resto_name": "Le Verdurier",
+        "city": "Drudas",
         "url": "https://www.relaischateaux.com/fr/france/chateau-de-drudas"
     },
     {
-        "title": "Bistrot le Pontarlier",
-        "url": "https://www.relaischateaux.com/fr/france/germigney-jura-port-lesney"
+        "hotel_name": "Château de Fonscolombe",
+        "hotel_price": "185,24",
+        "resto_name": "L'Orangerie",
+        "city": "Le Puy-Sainte-Réparade",
+        "url": "https://www.relaischateaux.com/fr/france/fonscolombe-bouches-du-rhone"
     },
     {
-        "title": "Château de Locguénolé",
-        "url": "https://www.relaischateaux.com/fr/france/locguenole-morbihan-kervignac"
-    },
-    {
-        "title": "Château de Mirambeau",
-        "url": "https://www.relaischateaux.com/fr/france/mirambeau-charente-maritime-mirambeau"
-    },
-    {
-        "title": "Château de Montreuil",
-        "url": "https://www.relaischateaux.com/fr/france/montreuil-pas-de-calais-montreuil"
-    },
-    {
-        "title": "La Table de Noirieux",
-        "url": "https://www.relaischateaux.com/fr/france/noirieux-maine-et-loire-briollay"
-    },
-    {
-        "title": "Le Castel",
+        "hotel_name": "Château de Noizay",
+        "hotel_price": "265,44",
+        "resto_name": "Le Castel",
+        "city": "Noizay",
         "url": "https://www.relaischateaux.com/fr/france/noizay-indre-et-loire-noizay"
     },
     {
-        "title": "Roche Aiguë",
-        "url": "https://www.relaischateaux.com/fr/france/rochegude-drome-rochegude"
+        "hotel_name": "Château de la Treyne",
+        "hotel_price": "282,38",
+        "resto_name": "Château de la Treyne",
+        "city": "Lacave",
+        "url": "https://www.relaischateaux.com/fr/france/treyne-lot-lacave"
     },
     {
-        "title": "La Piscine",
-        "url": "https://www.relaischateaux.com/fr/france/chateau-de-valmer-la-croix-valmer"
+        "hotel_name": "Château des Avenières",
+        "hotel_price": "124,81",
+        "resto_name": "Le \"M\"",
+        "city": "Cruseilles",
+        "url": "https://www.relaischateaux.com/fr/france/avenieres-haute-savoie-cruseilles"
     },
     {
-        "title": "Chateau d'Adomenil",
+        "hotel_name": "Château d’Adoménil",
+        "hotel_price": "220,26",
+        "resto_name": "Chateau d'Adomenil",
+        "city": "Lunéville",
         "url": "https://www.relaischateaux.com/fr/france/adomenil-meurthe-et-moselle-luneville"
     },
     {
-        "title": "Le Séran",
-        "url": "https://www.relaischateaux.com/fr/france/audrieu-calvados-audrieu"
-    },
-    {
-        "title": "La Brasserie « Le Jardin »",
-        "url": "https://www.relaischateaux.com/fr/france/crayeres-marne-reims"
-    },
-    {
-        "title": "La Pinède",
-        "url": "https://www.relaischateaux.com/fr/france/calarossa-corse-porto-vecchio"
-    },
-    {
-        "title": "La Maison Carrier",
+        "hotel_name": "Hameau Albert Ier",
+        "hotel_price": "170,56",
+        "resto_name": "La Maison Carrier",
+        "city": "Chamonix-Mont-Blanc",
         "url": "https://www.relaischateaux.com/fr/france/albert-haute-savoie-chamonix-mont-blanc"
     },
     {
-        "title": "Restaurant de l'Hostellerie la Briqueterie",
-        "url": "https://www.relaischateaux.com/fr/france/briqueterie-marne-vinay"
+        "hotel_name": "Hostellerie La Cheneaudière & Spa",
+        "hotel_price": "299,33",
+        "resto_name": "Hostellerie La Cheneaudière & Spa",
+        "city": "Colroy-la-Roche",
+        "url": "https://www.relaischateaux.com/fr/france/cheneaudiere-bas-rhin-colroy-la-roche"
     },
     {
-        "title": "Le Bistrot du Bord de l'Eau",
-        "url": "https://www.relaischateaux.com/fr/france/levernois-cote-d-or-levernois-beaune"
+        "hotel_name": "Hotel & Restaurant Thierry Drapeau",
+        "hotel_price": "587,36",
+        "resto_name": "Restaurant Thierry Drapeau",
+        "city": "Saint-Sulpice-le-Verdon",
+        "url": "https://www.relaischateaux.com/fr/france/thierrydrapeau-vendee-saint-sulpice-le-verdon"
     },
     {
-        "title": "L'Envers du Décor",
-        "url": "https://www.relaischateaux.com/fr/france/plaisance-gironde-saint-emilion"
+        "hotel_name": "Hotel Ile de la Lagune Thalasso & Spa",
+        "hotel_price": "181,85",
+        "resto_name": "Restaurant l'Almandin",
+        "city": "Saint-Cyprien",
+        "url": "https://www.relaischateaux.com/fr/france/ile-de-la-lagune-saint-cyprien"
     },
     {
-        "title": "Autres restaurants",
-        "url": "https://www.relaischateaux.com/fr/france/crillonbrave-vaucluse-crillon-le-brave"
+        "hotel_name": "Jiva Hill Resort",
+        "hotel_price": "327,56",
+        "resto_name": "Le Jardin",
+        "city": "Crozet",
+        "url": "https://www.relaischateaux.com/fr/france/jivahill-ain-crozet"
     },
     {
-        "title": "Autres restaurants",
-        "url": "https://www.relaischateaux.com/fr/france/barmes-de-l-ours-savoie"
+        "hotel_name": "La Bastide de Capelongue",
+        "hotel_price": "127,64",
+        "resto_name": "Autres restaurants",
+        "city": "Bonnieux en Provence",
+        "url": "https://www.relaischateaux.com/fr/france/capelongue-vaucluse-bonnieux-en-provence"
     },
     {
-        "title": "Le Bistrot 1903",
-        "url": "https://www.relaischateaux.com/fr/france/bise-haute-savoie-talloires"
+        "hotel_name": "La Maison des Bois – Marc Veyrat",
+        "hotel_price": "",
+        "resto_name": "La Maison des Bois – Marc Veyrat",
+        "city": "Manigod",
+        "url": "https://www.relaischateaux.com/fr/france/marcveyrat-haute-savoie-manigod"
     },
     {
-        "title": "Hôtel de la Plage",
-        "url": "https://www.relaischateaux.com/fr/france/laplage-finistere-sainte-anne-la-palud"
+        "hotel_name": "La Signoria & Spa",
+        "hotel_price": "397,59",
+        "resto_name": "La Signoria",
+        "city": "Calvi",
+        "url": "https://www.relaischateaux.com/fr/france/signoria-corse-calvi"
     },
     {
-        "title": "Au Goût du Jour",
-        "url": "https://www.relaischateaux.com/fr/france/bonneetape-alpes-de-haute-provence-chateau-arnoux"
-    },
-    {
-        "title": "Bien Etre & Saveurs",
-        "url": "https://www.relaischateaux.com/fr/france/la-cote-saint-jacques-yonne-joigny"
-    },
-    {
-        "title": "La Table d'Uzès",
-        "url": "https://www.relaischateaux.com/fr/france/maisonduzes-gard-uzes"
-    },
-    {
-        "title": "La Réserve",
-        "url": "https://www.relaischateaux.com/fr/france/reservealbi-tarn-albi"
-    },
-    {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "Castel Marie-Louise",
+        "hotel_name": "Le Castel Marie-Louise",
+        "hotel_price": "188,63",
+        "resto_name": "Castel Marie-Louise",
+        "city": "La Baule",
         "url": "https://www.relaischateaux.com/fr/france/marielouise-loire-atlantique-la-baule"
     },
     {
-        "title": "Le Jardin d'Alice",
+        "hotel_name": "Le Château de Beaulieu",
+        "hotel_price": "192,02",
+        "resto_name": "Le Jardin d'Alice",
+        "city": "Busnes",
         "url": "https://www.relaischateaux.com/fr/france/chateaubeaulieu-pas-de-calais-busnes"
     },
     {
-        "title": "Le Clos",
-        "url": "https://www.relaischateaux.com/fr/france/leclos-normandie-verneuil-sur-avre"
+        "hotel_name": "Le Couvent des Minimes Hôtel & Spa L'Occitane",
+        "hotel_price": "253,01",
+        "resto_name": "Pesquier",
+        "city": "Mane",
+        "url": "https://www.relaischateaux.com/fr/france/minimes-alpes-de-haute-provence-mane"
     },
     {
-        "title": "La Vieille Fontaine",
-        "url": "https://www.relaischateaux.com/fr/france/cavaliere-var-le-lavandou-cavaliere"
+        "hotel_name": "Le Domaine de Verchant",
+        "hotel_price": "243,98",
+        "resto_name": "La Plage dans les Vignes",
+        "city": "Castelnau Le Lez (Montpellier)",
+        "url": "https://www.relaischateaux.com/fr/france/verchant-herault-montpellier"
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "Le 1917",
+        "hotel_name": "Le Petit Nice-Passedat",
+        "hotel_price": "248,50",
+        "resto_name": "Le 1917",
+        "city": "Marseille",
         "url": "https://www.relaischateaux.com/fr/france/passedat-bouches-du-rhone-marseille"
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "Le Café de L'Espérance",
-        "url": "https://www.relaischateaux.com/fr/france/stjames-gironde-bouliac"
+        "hotel_name": "Le Relais Bernard Loiseau – Spa Loiseau des Sens",
+        "hotel_price": "111,82",
+        "resto_name": "Loiseau des Sens",
+        "city": "Saulieu",
+        "url": "https://www.relaischateaux.com/fr/france/loiseau-cote-d-or-saulieu"
     },
     {
-        "title": "",
+        "hotel_name": "Le Suquet, Sébastien Bras",
+        "hotel_price": "",
+        "resto_name": "BRAS",
+        "city": "Laguiole",
+        "url": "https://www.relaischateaux.com/fr/france/bras-aveyron-laguiole"
+    },
+    {
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "",
+        "hotel_name": "Les Prés d’Eugénie - Maison Guérard",
+        "hotel_price": "282,38",
+        "resto_name": "Autres restaurants",
+        "city": "Eugénie-les-Bains",
+        "url": "https://www.relaischateaux.com/fr/france/guerard-landes-eugenie-les-bains"
+    },
+    {
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "L'Auberge de la Poule d'Or",
-        "url": "https://www.relaischateaux.com/fr/france/aubergade-lot-et-garonne-puymirol"
+        "hotel_name": "Manoir de Lan-Kerellec",
+        "hotel_price": "236,07",
+        "resto_name": "Manoir de Lan-Kerellec",
+        "city": "Trébeurden",
+        "url": "https://www.relaischateaux.com/fr/france/lankerellec-cotes-d-armor-trebeurden"
     },
     {
-        "title": "Autres restaurants",
+        "hotel_name": "Moulin de l’Abbaye",
+        "hotel_price": "163,78",
+        "resto_name": "Autres restaurants",
+        "city": "Brantôme-en-Périgord",
         "url": "https://www.relaischateaux.com/fr/france/moulin-dordogne-brantome-en-perigord"
     },
     {
-        "title": "",
+        "hotel_name": "Pan Deï Palais",
+        "hotel_price": "282,38",
+        "resto_name": "Pan Deï Palais",
+        "city": "Saint-Tropez",
+        "url": "https://www.relaischateaux.com/fr/france/pandei-var-saint-tropez"
+    },
+    {
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
     },
     {
-        "title": "",
+        "hotel_name": "",
+        "hotel_price": "",
+        "resto_name": "",
+        "city": "",
         "url": ""
-    },
-    {
-        "title": "",
-        "url": ""
-    },
-    {
-        "title": "Sodade",
-        "url": "https://www.relaischateaux.com/fr/france/vieira-cantal"
-    },
-    {
-        "title": "Yoann Côté Jardin",
-        "url": "https://www.relaischateaux.com/fr/france/yoannconte-haute-savoie-veyrier-du-lac"
     }
 ]

@@ -2,7 +2,7 @@ import './style/index.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Pagination from'./pagination.js'
-import hotel_resto from  './restos_hotel';
+import hotel_resto from  './Liste-Relais-Chateau_Finale';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { ButtonDropdown, DropdownToggle, DropdownMenu, DropdownItem, Button} from 'reactstrap';
 
@@ -36,15 +36,6 @@ function aContainsB (a, b) {
 }
 
 
-class Restaurantsaddress extends React.Component{
-	render() {
-		return(
-			this.props.value.city;
-		)
-	}
-}
-
-
 class SearchBar extends React.Component {
 	constructor(props) {
 	  	super(props);
@@ -73,7 +64,7 @@ class SearchBar extends React.Component {
 	    if(this.state.value1==="Ville"){
 	    	 ReactDOM.render(
 	    
-		  <Restaurants value={getRestaurantByAdress(this.state.value2)}/>,
+		  <Hotels value={getRestaurantByAdress(this.state.value2)}/>,
 		  document.getElementById('root')
 		);
 	    }
@@ -81,7 +72,7 @@ class SearchBar extends React.Component {
 	    {
 	    	 ReactDOM.render(
 	    
-		  <Restaurants value={getRestaurantByName(this.state.value2)}/>,
+		  <Hotels value={getRestaurantByName(this.state.value2)}/>,
 		  document.getElementById('root')
 		);
 	    }
@@ -118,23 +109,17 @@ class Hotels extends React.Component{
 			<div class="header">
 			<div class="container">
 				<div class="col-sm">
-				<img src={require('./style/DealToEat.jpg')} class="img-responsive " />
+						<img src={require('./style/DealToEat.jpg')} class="img-responsive " />
 				</div>
-	  				<div class="row">
-	   				 <div class="col-sm">
-	   				 <Dropdown/>
-	    			</div>
+	  				
 	    			
 	    		<div class="col-sm">
 	      			 <SearchBar/>
 	   			 </div>
-	    		<div class="col-sm">
-
-	      			<Checkbox />
-	   			 </div>
-	 			 </div>
+	    		
+	 		</div>
 			</div>
-			</div>
+			
 			<div>
 				{this.props.value.map((hotel)=>{
 					return <Hotel value ={hotel}/>
@@ -167,7 +152,7 @@ class Hotel extends React.Component {
 							<b>Adresse :</b>
 						</div>
 						<div class="col-auto">
-							<Restaurantsaddress value = {this.props.value.city}/>
+							{this.props.value.city}
 						</div>	
 					</div>
 

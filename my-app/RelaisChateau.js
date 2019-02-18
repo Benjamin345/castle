@@ -116,9 +116,9 @@ async function getName(url){
 		        const $ = cheerio.load(html);
 		        $('.jsSecondNavMain').children('li').each(function(i,elm){
 		        	if($(this).find('span').text()=="Hôtel"){
-		        		hotel_name=$('innerHotelHeader').find('headings').children().first().text().trim();
-		        		hotel_price=$('priceTag').find('price').text().trim();
-		        		city=$('innerHotelHeader').find('headings').children().next().children().next().text().trim();
+		        		hotel_resto.hotel_name=$('.hotelHeader').find('.headings').find('.mainTitle2').text().trim();
+		        		hotel_resto.hotel_price=$('.priceTag').find('.price').text().trim();
+		        		hotel_resto.city=$('.hotelHeader').find('.headings').find('.mainTitle1').find('span').next().text().trim();
 		        		hotel_resto.url=$(this).find('span').parent().attr('href');
 		        		if($('.jsSecondNavSub')[0])
 				        {
@@ -129,7 +129,6 @@ async function getName(url){
 				        else{
 			        		hotel_resto.resto_name=$('.hotelTabsHeaderTitle').children().text().trim();
 				        }
-				        
 				    }
 		        });
 		        
@@ -175,7 +174,7 @@ async function updateDeals(){
 	var promises = [];
 	for(var i=0;i<names.length;i++){
 		for(var j = 0;j<restos.length;j++){
-			if(names[i].resto_name === restos[j]){
+			if(names[i].resto_name === restos[j] && names[i].resto_name!= ""){
 				promises.push(names[i]);
 			}
 		}
